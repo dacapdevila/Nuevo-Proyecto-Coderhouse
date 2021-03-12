@@ -1,2 +1,2 @@
-# Nuevo-Proyecto-Coderhouse
+# mi-proyecto-personal
 Created with CodeSandbox
